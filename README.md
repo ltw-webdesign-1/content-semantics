@@ -1,25 +1,20 @@
 ---
-summary: 'Write the HTML code for the beets activity concentrating on semantics only.'
-time: '2 hours'
-deliverables: '1 HTML file, images'
+summary: "Write the HTML code for the beets activity concentrating on semantics only."
+time: "1 hour"
+deliverables: "1 HTML file, images"
 ---
 
 # Content semantics
 
 ## Overview
 
-- *Fork this repository.*
+- _Fork this repository._
 - Create an `index.html` file inside the repository.
 - Write all the HTML we discussed in class for the beets website.
-- Remember to do regular commits.
+- **Use the included tag reference to help remember which tags to choose.**
 - Text can be found inside the `content.txt` file.
-- *Run it through Markbot and make sure it passes all the checks.*
-
----
-
-## Goal
-
-**It will not look the same as the PDF** from earlier in class—we’re only concentrating on HTML semantics not how it looks.
+- Remember to do regular commits.
+- _Run it through Markbot and make sure it passes all the checks._
 
 ---
 
