@@ -48,7 +48,3 @@ html:
       - "Carbohydrates"
       - "Vegetable!"
       - "Wikipedia"
-
-screenshots:
-  - path: "index.html"
-    sizes: [800]
